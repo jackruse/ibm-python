@@ -1,2 +1,2 @@
 # ibm-python
-Python for Data Science, AI &amp; Development from IBM on Coursera, Week 1
+Python for Data Science, AI &amp; Development from IBM on Coursera
